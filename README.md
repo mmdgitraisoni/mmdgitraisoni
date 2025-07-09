@@ -12,8 +12,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mmdgitraisoni&theme=rose&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Ada lovelace's Quote
+“The more I study, the more insatiable do I feel my genius for it to be.”
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mmdgitraisoni&icon=9&color=10)](https://visitcount.itsvg.in)
